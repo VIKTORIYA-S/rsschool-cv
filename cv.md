@@ -19,7 +19,13 @@ I am mastering new professions - Web developer and Web designer. I possess such 
 
 
 ---
+## Education and work experience:
+1. Pedagogical University. Palace of Children's Creativity. Accompanist. 1990-2023
+2. Pedagogical University. Kindergarten. Musical director. 1987-2023
+3. Music College. Kindergarten. Musical director. 1981-1986
+4. Kharkov Mechanical College. Machine building plant. Technologist. 1978-1981
 
+---
 
 
 
