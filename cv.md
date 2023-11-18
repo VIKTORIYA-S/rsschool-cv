@@ -27,7 +27,7 @@ I am mastering new professions - Web developer and Web designer. I possess such 
 
 ---
 ## Additional education:
-1. Rolling Scopes School
+1. Rolling Scopes School.
     1.1 RS School Course «JavaScript/Front-end. Stage 1»
 in progress
     1.2 RS School Course «JavaScript/Front-end. Stage 0»
@@ -90,7 +90,10 @@ checkForSpam("Get best sale offers now!");
 checkForSpam("Amazing SalE, only tonight!");
 
 ```
-
+## Languages:
+* Ukrainian - native
+* Russian - native
+* English - in progress
 
 
 
