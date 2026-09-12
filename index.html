@@ -140,6 +140,52 @@
                                 CSS3, JavaScript, UX/UI</a></li>
                     </ul>
                 </section>
+                <section class="code" id="code">
+                    <h2 class="section-title"><a href="#nav_code">Code Example</a></h2>
+                    <h3 class="code__title">Description:</h3>
+                    <div class="code__description">
+                        <p>The checkForSpam(message) function accepts a string (the message parameter), checks it for
+                            the content of the prohibited words spam and sale, and returns the result of the check. The
+                            words in the message parameter string can be in any case, for example SPAM or sAlE.</p>
+                        <p>If a forbidden word (spam or sale) is found, the function returns the boolean true.</p>
+                        <p>If there are no forbidden words in the string, the function returns boolean false.</p>
+                    </div>
+                    <h3 class="code__title">Сode:</h3>
+                    <div class="code__description code_code">
+                        <pre>
+                                            <code>
+                                                function checkForSpam(message) {
+                                                let result;
+                                                const normalizedMessage = message.toLowerCase();
+                                            if (normalizedMessage.includes("sale")) {
+                                                result = true;
+                                            } else if (normalizedMessage.includes("spam")) {
+                                                result = true;
+                                            } else {
+                                                result = false;
+                                            }
+                                                console.log(result);
+                                                return result;}
+                                            </code>
+                                        </pre>
+                        <pre>
+                                            <code>
+                                                checkForSpam("Latest technology news");
+                                                checkForSpam("JavaScript weekly newsletter");
+                                                checkForSpam("Get best sale offers now!");
+                                                checkForSpam("Amazing SalE, only tonight!");
+                                            </code>
+                                        </pre>
+                    </div>
+                </section>
+                <section class="languages" id="languages">
+                    <h2 class="section-title"><a href="#nav_languages">Languages</a></h2>
+                    <ul class="languages__list">
+                        <li class="languages__li">Ukrainian - native</li>
+                        <li class="languages__li">Russian - native</li>
+                        <li class="languages__li last">English - in progress</li>
+                    </ul>
+                </section>
             </div>
         </main>
 
