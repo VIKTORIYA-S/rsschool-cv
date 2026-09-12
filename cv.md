@@ -56,3 +56,12 @@ in progress
     5.2 [Certificate](./img/ux-ui-start.jpeg)
 
 ---
+## My projects:
+* [HTML5, CSS3, JavaScript:](https://viktoriya-s.github.io/shelter/)
+* [HTML5, CSS3, JavaScript:](https://viktoriya-s.github.io/exam_js/)
+* [HTML5, CSS3, JavaScript:](https://viktoriya-s.github.io/not-fight-club/)
+* [HTML5, CSS3, JavaScript, React:](https://viktoriya-s.github.io/museum/)
+* [HTML5, CSS3, JavaScript:](https://viktoriya-s.github.io/music/)
+* [HTML5, CSS3, JavaScript, UX/UI:](https://viktoriya-s.github.io/banderogys/)
+
+---
