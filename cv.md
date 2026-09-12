@@ -65,3 +65,35 @@ in progress
 * [HTML5, CSS3, JavaScript, UX/UI:](https://viktoriya-s.github.io/banderogys/)
 
 ---
+### Code Example:
+#### Description:
+
+The checkForSpam(message) function accepts a string (the message parameter), checks it for the content of the prohibited words spam and sale, and returns the result of the check. The words in the message parameter string can be in any case, for example SPAM or sAlE.
+
+
+If a forbidden word (spam or sale) is found, the function returns the boolean true.
+If there are no forbidden words in the string, the function returns boolean false.
+
+#### Сode:
+
+```javascript
+ function checkForSpam(message) {
+  let result;
+  const normalizedMessage = message.toLowerCase();
+if (normalizedMessage.includes("sale")) {
+  result = true;
+} else if (normalizedMessage.includes("spam")) {
+  result = true;
+} else {
+  result = false;
+}
+  console.log(result);
+  return result;
+}
+
+checkForSpam("Latest technology news");
+checkForSpam("JavaScript weekly newsletter");
+checkForSpam("Get best sale offers now!");
+checkForSpam("Amazing SalE, only tonight!");
+
+```
